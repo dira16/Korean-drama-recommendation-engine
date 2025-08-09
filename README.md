@@ -1,6 +1,6 @@
 #  K-Drama Recommendation System
 
-A *lightweight content-based recommender* for K-Dramas, built using *pandas, **scikit-learn, and **numpy*.  
+A *lightweight content-based recommender* for K-Dramas, built using *pandas*, *scikit-learn*, and *numpy*.  
 It suggests similar K-Dramas based on genres, tags, country, and cast metadata.
 
 ---
